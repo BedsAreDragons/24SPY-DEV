@@ -1046,7 +1046,7 @@ const controlAreas = [
         originalscale: 2,
         scale: 2,
         coordinates: [493.87, 757.33],
-        towerfreq: "None",
+        towerfreq: "124.605",
         tower: false,
         towerATC: "",
         atcs: [
